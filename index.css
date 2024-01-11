@@ -64,6 +64,10 @@
     font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
+    text-align: justify;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 100%;
 }
 .fovourite-main-headline {
     color: white;
@@ -108,4 +112,8 @@
     font-family: "Roboto";
     font-size: 20px;
     font-weight: 700;
+    text-align: justify;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 100%;
 }
